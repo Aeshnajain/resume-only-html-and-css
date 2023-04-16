@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+.introduction {
+  background-color: black;
+  color: white;
+}
+
+.code-wallpaper {
+  height: 900px;
+  width: 1100px;
+  display: inline-block;
+}
+
+.heading-text {
+  display: inline-block;
+  position: absolute;
+  top: 200px;
+}
+
+.name {
+  font-size: 150px;
+  font-family: "Dancing Script", cursive;
+  margin-bottom: 40px;
+}
+
+.desciption {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.skills-and-education {
+  background-color: black;
+  color: white;
+}
+
+.skills {
+  display: flex;
+}
+
+.skills-and-education-heading {
+  margin: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.icon-background {
+  border-radius: 100%;
+  background-color: white;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+.icon-image {
+  padding: 15px;
+  width: 70%;
+  height: 70%;
+}
+
+.skill {
+  margin: 50px;
+  flex: 1;
+}
+
+.skill-text {
+  margin-left: 120px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
